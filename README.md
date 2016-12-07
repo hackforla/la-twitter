@@ -27,6 +27,9 @@ Types of accounts to add:
 Tips:
 * Look through the accounts followed by departments and officials because they tend to be other departments and officials.
 
+Guidelines:
+* Order by district/zone/precinct/etc. numbers if they exist, otherwise order alphabetically.
+
 Steps to add your changes:
 
 1. Go to the [TwitterHandles.md](https://github.com/hackforla/la-twitter/blob/master/TwitterHandles.md) file and click the Edit icon.
