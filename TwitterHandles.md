@@ -24,6 +24,8 @@ Joe Buscaino |  | District 15 |
 
 ## County of Los Angeles
 
+### Board of Supervisors
+
 Name | Twitter | Notes |
 ---- | ------- | ----- |
 Hilda Solis |  | District 1 |
@@ -31,3 +33,14 @@ Mark Ridley-Thomas |  | District 2 |
 Sheila Kuehl |  | District 3 |
 Janice Hahn |  | District 4 |
 Kathryn Barger |  | District 5 |
+
+### Departments
+
+Name | Twitter | Notes |
+---- | ------- | ----- |
+Public Works | [@LACoPublicWorks](https://twitter.com/LACoPublicWorks) |  |
+
+## Third Party
+Name | Twitter | Notes |
+---- | ------- | ----- |
+LA Scanner | [@LAScanner](https://twitter.com/lascanner) | Unofficial LAPD scanner tweets, with occasional commentary. |
