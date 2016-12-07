@@ -16,12 +16,16 @@ Types of accounts to add:
 * Authorities (water, sewage, housing).
 * Elected officials.
 * Appointed officials.
+* Former officials.
 * State representatives.
 * Congressional representatives.
 * Temporary, event, etc. accounts.
 * Automated accounts.
 * Third party, non-official accounts.
 * Satirical accounts.
+
+Tips:
+* Look through the accounts followed by departments and officials because they tend to be other departments and officials.
 
 Steps to add your changes:
 
