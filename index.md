@@ -24,8 +24,23 @@ Mitch O'Farrell | [@MitchOFarrell](https://twitter.com/MitchOFarrell) | District
 José Huizar | [@josehuizar](https://twitter.com/josehuizar) | District 14 |
 Joe Buscaino | [@JoeBuscaino](https://twitter.com/JoeBuscaino) | District 15 |
 
-### Departments
+### Departments & Commissions/Bureaus
 
+#### Public Safety
+
+Name | Twitter | Notes |
+---- | ------- | ----- |
+LAPD HQ | [@LAPDHQ](https://twitter.com/LAPDHQ) | |
+LAFD Talk | [@LAFDtalk](https://twitter.com/LAFDtalk) | |
+LAFD | [@LAFD](https://twitter.com/LAFD) | |
+
+#### Transportation
+
+Name | Twitter | Notes |
+---- | ------- | ----- |
+LA Street Services | [@BSSLosAngeles](https://twitter.com/BSSLosAngeles) | |
+LADOT Transit | [@ladottransit](https://twitter.com/ladottransit) | |
+LAX Airport | [@flyLAXairport](https://twitter.com/flyLAXairport) | |
 
 ## County of Los Angeles
 
@@ -49,3 +64,62 @@ Public Works | [@LACoPublicWorks](https://twitter.com/LACoPublicWorks) |  |
 Name | Twitter | Notes |
 ---- | ------- | ----- |
 LA Scanner | [@LAScanner](https://twitter.com/lascanner) | Unofficial LAPD scanner tweets, with occasional commentary. |
+
+# To Categorize
+
+* [@ladeptofaging](https://twitter.com/ladeptofaging)
+* [@LACountyWDACS](https://twitter.com/LACountyWDACS)
+* [@CertLAFD](https://twitter.com/CertLAFD)
+* [@MayorOfLA](https://twitter.com/MayorOfLA)
+* [@LADWP](https://twitter.com/LADWP)
+* [@LADOTofficial](https://twitter.com/LADOTofficial)
+* [@LADOTBikeProg](https://twitter.com/LADOTBikeProg)
+* [@LADOTPeopleSt](https://twitter.com/LADOTPeopleSt)
+* [@LADOTSafeRoutes](https://twitter.com/LADOTSafeRoutes)
+* https://twitter.com/sbLASD
+* https://twitter.com/EmpowerLA
+* https://twitter.com/LASPDOfficial
+* https://twitter.com/LACo_FD
+* https://twitter.com/LAGreatStreets
+* https://twitter.com/mpLASD
+* https://twitter.com/BikeMetro
+* https://twitter.com/911LAPD
+* https://twitter.com/LASDHQ
+* https://twitter.com/NortheastArea
+* https://twitter.com/LAPDHollywood
+* https://twitter.com/LAPDChiefBeck
+* https://twitter.com/metrolosangeles
+* https://twitter.com/LASchools
+* https://twitter.com/NewtonLAPD
+* https://twitter.com/LAPDSouthTraff
+* https://twitter.com/LAPDHollenbeck
+* https://twitter.com/LAPDWestTraffic
+* https://twitter.com/LAPDWestLA
+* https://twitter.com/LAPD_CTD
+* https://twitter.com/NortheastArea
+* https://twitter.com/LAPDSoutheast
+* https://twitter.com/LAPDSouthBureau
+* https://twitter.com/LAPDCentralArea
+* https://twitter.com/LAPDDevonshire
+* https://twitter.com/LAPDTopanga
+* https://twitter.com/LAPDOVB
+* https://twitter.com/LAPDMission
+* https://twitter.com/LAPDFoothill
+* https://twitter.com/LAPDVTD
+* https://twitter.com/lapdVanNuysDiv
+* https://twitter.com/LAPD77thSt
+* https://twitter.com/LAPDRampart
+* https://twitter.com/LAPDWilshire
+* https://twitter.com/LAPDHollywood
+* https://twitter.com/LACoPublicWorks
+* https://twitter.com/LAPDwestvalley
+* https://twitter.com/ChiefVillegas
+* https://twitter.com/LA2B_ideas
+* https://twitter.com/LAPDHITANDRUN
+* https://twitter.com/lapublichealth
+* https://twitter.com/Culture_LA
+* https://twitter.com/Metrolink
+* https://twitter.com/BoyleHeights_LA
+* https://twitter.com/4SLO71
+* https://twitter.com/CHPsouthern
+* https://twitter.com/GrandPark_LA
