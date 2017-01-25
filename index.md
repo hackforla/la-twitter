@@ -5,6 +5,7 @@ Last verified: 12/6/2016
 ## City of Los Angeles
 
 ### City Council
+
 Name | Twitter | Notes |
 ---- | ------- | ----- |
 Gil Cedillo  | [@gilcedillocd1](https://twitter.com/gilcedillocd1) | District 1 |
