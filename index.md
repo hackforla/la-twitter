@@ -62,7 +62,7 @@ Public Works | [@LACoPublicWorks](https://twitter.com/LACoPublicWorks) |  |
 
 ## Third Party
 Name | Twitter | Notes |
----- | ------- | ----- |
+-----| --------| ------|
 LA Scanner | [@LAScanner](https://twitter.com/lascanner) | Unofficial LAPD scanner tweets, with occasional commentary. |
 
 # To Categorize
