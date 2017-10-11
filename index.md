@@ -14,7 +14,7 @@ Bob Blumenfield | [@BobBlumenfield](https://twitter.com/BobBlumenfield) | Distri
 David Ryu | [@davideryu](https://twitter.com/davideryu) | District 4 |
 Paul Koretz | [@PaulKoretzCD5](https://twitter.com/PaulKoretzCD5) | District 5 |
 Nury Martinez | [@CD6Nury](https://twitter.com/CD6Nury) | District 6 |
-VACANT |  | District 7 |
+Monica Rodriguez | [@LadyMRod](https://twitter.com/ladymrod) | District 7 |
 Marqueece Harris-Dawson | [@mhdcd8](https://twitter.com/mhdcd8) | District 8 |
 Curren Price | [@CurrenDPriceJr](https://twitter.com/CurrenDPriceJr) | District 9 |
 Herb Wesson | [@HerbJWesson](https://twitter.com/HerbJWesson) | District 10 |
