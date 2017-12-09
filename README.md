@@ -32,7 +32,7 @@ Guidelines:
 
 Steps to add your changes:
 
-1. Go to the [TwitterHandles.md](https://github.com/hackforla/la-twitter/blob/master/TwitterHandles.md) file and click the Edit icon.
+1. Go to the [CategorizedIndex.md](https://github.com/hackforla/la-twitter/blob/master/CategorizedIndex.md) file and click the Edit icon.
 2. Make your updates using Markdown ([see guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)).
 3. Write a short description of what you did and propose your change as a Pull Request.
 
